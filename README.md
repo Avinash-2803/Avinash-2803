@@ -43,7 +43,6 @@
 
 - 📧 [joshiavinash072@gmail.com](mailto:joshiavinash072@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/avinashjoshi28/)
-- 🌐 [Portfolio](https://your-portfolio-link.vercel.app/) <!-- replace with actual link -->
 
 ---
 
