@@ -1,5 +1,4 @@
 
-     https://camo.githubusercontent.com/96f69b52e5091c3d3d319ca5e627ae3f08adbe141675398f824a3c701ee188fa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966
 # 👋 Hey there, I'm Avinash Joshi!  
 
 🚀 Passionate Full Stack Developer | 💡 Problem Solver | 🎯 Tech Enthusiast  
@@ -16,22 +15,39 @@
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-**Languages:**  
-💙 Java | 🐍 Python | ⚛️ JavaScript | 💻 C/C++ | 🌐 HTML/CSS  
+#### 💻 Programming Languages  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-276DC3?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Frontend:**  
-⚛️ React.js | 💅 Material UI | ⚡ Bootstrap | 🔁 Redux  
+#### 🌐 Frontend Development  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink?style=flat&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-**Backend:**  
-☕ Spring Boot | 🌐 Express.js | 🐘 Node.js | 🔐 JWT | 🔧 REST APIs  
+#### 🧑‍🍳 Backend Development  
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-**Database & Cloud:**  
-🍃 MongoDB | 🐬 MySQL | ☁️ Firebase | 🪣 AWS S3 | 🐳 Docker  
-
-**Tools & Dev:**  
-🔧 Git & GitHub | 📦 Postman | 🧪 VS Code | 🖥️ Linux  
+#### 🧰 Tools & Platforms  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
